@@ -1,0 +1,7 @@
+com/hotelservice/entity/Hotel.class
+com/hotelservice/controller/HotelController.class
+com/hotelservice/service/impl/HotelServiceImpl.class
+com/hotelservice/repository/HotelRepository.class
+com/hotelservice/service/IHotelService.class
+com/hotelservice/exceptions/NotFoundException.class
+com/hotelservice/HotelServiceApplication.class
